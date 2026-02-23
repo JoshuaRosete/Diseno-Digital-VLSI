@@ -1,2 +1,2 @@
-# Dise-o-Digital-VLSI
-Diseño Digital VLSI. Facultad de Ingeniería UNAM. Grupo 3
+# Diseño-Digital-VLSI
+En este repositorio se añadirán códigos en VHDL del curso Diseño Digital VLSI, proyectos archivados y demás miscelaneos que surgan en lel curso.
